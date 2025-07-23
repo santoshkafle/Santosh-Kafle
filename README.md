@@ -17,12 +17,11 @@ I'm Android develper and solo game developer.
 ---
 
 📂 Featured Projects
-| Movie List Repo | Movie list is the basic implementation of free api, provider the show list of available movie |
-| [Movie List Repo](https://github.com/username/AwesomePortfolio) | My personal portfolio website |
+| [Movie List Repo](https://github.com/username/AwesomePortfolio) | Movie list is the basic implementation of free api, provider the show list of available movie |
 
 ---
 
 📫 Contact Me
-- 💌 [Email](santoshkafle739@gmail.com)
+- 💌 [Email](mailto:santoshkafle739@gmail.com)
 
 Thanks for visiting! ⭐
